@@ -1,7 +1,10 @@
 pandas
 numpy
 matplotlib
-scikit-learn
 seaborn
-hmmlearn
 scipy
+scikit-learn
+scikit-learn-extra
+pyclustering
+plotly
+statsmodels
